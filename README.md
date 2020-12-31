@@ -13,7 +13,9 @@ Bucket name: d-spring-boot-lamba-terraform
 Key: spring-boot-aws-lambda-terraform-0.0.1-SNAPSHOT.zip 
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 To test the app
