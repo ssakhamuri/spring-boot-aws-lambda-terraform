@@ -7,7 +7,9 @@ The zip file will be located in build/distributions/spring-boot-aws-lambda-terra
 To deploy aws services using terraform code,
 
 Create an S3 bucket (In my case, I set the default env to dev so using 'd-') by uploading the zip file.
+
 Bucket name: d-spring-boot-lamba-terraform
+
 Key: spring-boot-aws-lambda-terraform-0.0.1-SNAPSHOT.zip 
 
 terraform init
